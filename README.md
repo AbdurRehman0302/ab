@@ -1,0 +1,1 @@
+A web application made using MVC architecture in nodejs and express. Users can register themselves and upload a campground with its images and details. The location of the campground can also be viewed on map using a service called mapbox.
